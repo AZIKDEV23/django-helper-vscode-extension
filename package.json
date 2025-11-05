@@ -2,6 +2,15 @@
   "name": "django-helper",
   "displayName": "Django-Helper",
   "description": "",
+  "homepage": "https://github.com/AZIKDEV23/django-helper-vscode-extension",
+  "bugs": {
+    "url": "https://github.com/AZIKDEV23/django-helper-vscode-extension/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AZIKDEV23/django-helper-vscode-extension"
+  },
+  "publisher": "AZIKDEV",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.105.0"
