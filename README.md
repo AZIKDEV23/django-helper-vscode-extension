@@ -1,5 +1,3 @@
-
-````markdown
 # Django Helper
 
 **Django Helper** is a Visual Studio Code extension designed to speed up Django development by providing smart code utilities and automatic template enhancements.
@@ -14,8 +12,6 @@
   ```html
   <link rel="stylesheet" href="css/style.css" />
   ```
-````
-
 
 ```html
 <link rel="stylesheet" href="{% static 'css/style.css' %}" />
